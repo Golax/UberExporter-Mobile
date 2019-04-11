@@ -1,6 +1,6 @@
 # UberExporter3000-Mobile
 
-UE3k-mobile is a particular "version" of [UE3k](https://github.com/Golax/UberExporter3000), it transfers files from a portable device like a smartphone or a tablet to your pc by USB cable.
+UE3k-mobile is a particular "version" of [UE3k](https://github.com/Golax/UberExporter3000), it is one of the few if not the only app that can programmable transfer content from a portable device like a smartphone or a tablet to your pc via USB cable.
 
 ### Premise!
 
@@ -35,4 +35,4 @@ Music
 
 ### Final thought
 
-I think UE3k-mobile is one of the few if not the only app that can programmable transfer content from a device to your pc via USB cable. Though it is an ended project (I won't work on it for a while) I will be avaible for every request or advice or issues you may have.
+Though UE3k-mobile is an ended project (I won't work on it for a while) I will be avaible for every request or advice or issues you may have.
