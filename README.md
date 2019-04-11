@@ -16,7 +16,7 @@ Or if you trust me, you can download and double click the executable file I made
 
 You need to write yourself the pattern.uber file wich link a specific extension with is respective destination folder you choose.
 It is harder to say it than doing it:
-'''
+```
 //Example
 
 Images //destination folder the will be created inside the root destination folder
@@ -25,7 +25,7 @@ Images //destination folder the will be created inside the root destination fold
 Music
 .mp3
 //see the patter.uber file in the repository for a complete example.
-'''
+```
 
 ### Usage/workflow
 
