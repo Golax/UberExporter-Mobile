@@ -19,7 +19,7 @@ It is harder to say it than doing it:
 ```
 //Example
 
-Images //destination folder the will be created inside the root destination folder
+Images //destination folder that will be created inside the root destination folder
 .jpg .jpeg .png //specific files Images folder will contain
 
 Music
