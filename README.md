@@ -29,7 +29,8 @@ Music
 
 ### Usage/workflow
 
-- Once you double click the .exe it should display all the portable devices connected to your pc, choose the right one.
+-Open cmd and navigate to the .exe folder than type "UE3k-Mobile [path]", where [path] is your root destination folder for the exported files (without brackets).
+- It should then display all the portable devices connected to your pc, choose the right one.
 - It should now display the read pattern.uber file that you wrote, for a final check.
 - Once you confirm it starts analyzing all the files in the device and then "cutting" them to the appropiate location defined in the pattern file. I tested it with a full 64GB device and the hole process *should* take from 1 to 2 hours.
 
