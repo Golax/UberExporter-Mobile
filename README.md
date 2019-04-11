@@ -5,7 +5,7 @@ UE3k-mobile is a particular "version" of [UE3k](https://github.com/Golax/UberExp
 ### Premise!
 
 I do **NOT** guarantee the correct working of the app and/or the right expected results from any of the usage you make from it.
-I had a really hard time to implement this, because I had to deal with the old MS WPD library and with the MS ecosystem wich were really *tedious* in my opinion, so I apologize for the REALLY BAD code or for the probably wrong approaches but in the end I was a bit tired.
+I had a really hard time to implement this, because I had to deal with the old [MS WPD](https://github.com/pauldotknopf/WindowsSDK7-Samples/tree/master/multimedia/wpd/wpdapisample/cpp) library and with the MS ecosystem wich were really *tedious* in my opinion, so I apologize for the REALLY BAD code or for the probably wrong approaches but in the end I was a bit tired.
 
 ### Installation
 
